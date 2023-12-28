@@ -1,0 +1,1355 @@
+{
+  "webHierarchies": [
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0afc28eaad",
+      "depot": "1",
+      "sectionId": "BABY & TODDLER",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "BABY & TODDLER FOOD & DRINKS",
+      "childSectionId": "BABY & TODDLER FOOD & DRINKS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ad8d97fc2",
+      "depot": "1",
+      "sectionId": "BABY & TODDLER",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "BABY CARE & ACCESSORIES",
+      "childSectionId": "BABY CARE & ACCESSORIES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0afc4cf3ad",
+      "depot": "1",
+      "sectionId": "BABY & TODDLER FOOD & DRINKS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ASSORTED FOOD & DRINKS",
+      "childSectionId": "ASSORTED FOOD & DRINKS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a000389c2",
+      "depot": "1",
+      "sectionId": "BABY CARE & ACCESSORIES",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ASSORTED NON-FOOD",
+      "childSectionId": "ASSORTED NON-FOOD"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a28742aa6",
+      "depot": "1",
+      "sectionId": "BAKING",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "INGREDIENTS",
+      "childSectionId": "INGREDIENTS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a50de42a6",
+      "depot": "1",
+      "sectionId": "BAKING",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "FLOUR",
+      "childSectionId": "FLOUR"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ae4565ea6",
+      "depot": "1",
+      "sectionId": "BAKING",
+      "sectionPosition": 1500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "MIXES & KITS",
+      "childSectionId": "MIXES & KITS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a789fc6bb",
+      "depot": "1",
+      "sectionId": "BEANS & PULSES",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "PULSES",
+      "childSectionId": "PULSES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0aec19e2bb",
+      "depot": "1",
+      "sectionId": "BEANS & PULSES",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "BEANS",
+      "childSectionId": "BEANS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a0036e1a5",
+      "depot": "1",
+      "sectionId": "BISCUITS & COOKIES",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "BISCUITS - COOKIES & WAFERS",
+      "childSectionId": "BISCUITS - COOKIES & WAFERS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0afc92f6a5",
+      "depot": "1",
+      "sectionId": "BREAD PRODUCTS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "CRACKERS & CRISPBREADS",
+      "childSectionId": "CRACKERS & CRISPBREADS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a7cf864bb",
+      "depot": "1",
+      "sectionId": "BREAD PRODUCTS",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "BREAD - FLATBREADS & PIZZA BASES",
+      "childSectionId": "BREAD - FLATBREADS & PIZZA BASES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a08cedde0",
+      "depot": "1",
+      "sectionId": "BREAD PRODUCTS",
+      "sectionPosition": 1500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "OATCAKES",
+      "childSectionId": "OATCAKES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0a14270d3d",
+      "depot": "1",
+      "sectionId": "BREAD PRODUCTS",
+      "sectionPosition": 2000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "BREADSTICKS & CROUTONS",
+      "childSectionId": "BREADSTICKS & CROUTONS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ab073cfba",
+      "depot": "1",
+      "sectionId": "BREAKFAST FOODS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "CEREALS",
+      "childSectionId": "CEREALS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a7425faba",
+      "depot": "1",
+      "sectionId": "BREAKFAST FOODS",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "BRAN & OATGERM",
+      "childSectionId": "BRAN & OATGERM"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a8cd0e0c0",
+      "depot": "1",
+      "sectionId": "BREAKFAST FOODS",
+      "sectionPosition": 1500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "PORRIDGE OATS",
+      "childSectionId": "PORRIDGE OATS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a240031cc",
+      "depot": "1",
+      "sectionId": "BREAKFAST FOODS",
+      "sectionPosition": 2000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "MUESLI",
+      "childSectionId": "MUESLI"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0ac0b83a45",
+      "depot": "1",
+      "sectionId": "BREAKFAST FOODS",
+      "sectionPosition": 2500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "GRANOLA",
+      "childSectionId": "GRANOLA"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a6c33e6be",
+      "depot": "1",
+      "sectionId": "CHUTNEY, DRESSINGS & DIPS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "CHUTNEY, RELISH & PESTO",
+      "childSectionId": "CHUTNEY, RELISH & PESTO"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0a601b3638",
+      "depot": "1",
+      "sectionId": "CHUTNEY, DRESSINGS & DIPS",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "DRESSINGS, SALSA & DIPS",
+      "childSectionId": "DRESSINGS, SALSA & DIPS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a8884eea8",
+      "depot": "1",
+      "sectionId": "COCONUT PRODUCTS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "COCONUT ASSORTED PRODUCTS",
+      "childSectionId": "COCONUT ASSORTED PRODUCTS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a683053a9",
+      "depot": "1",
+      "sectionId": "CONDIMENTS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "VINEGAR",
+      "childSectionId": "VINEGAR"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0abcf44fbc",
+      "depot": "1",
+      "sectionId": "CONDIMENTS",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "MUSTARD",
+      "childSectionId": "MUSTARD"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0af40617bf",
+      "depot": "1",
+      "sectionId": "CONDIMENTS",
+      "sectionPosition": 1500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SALT",
+      "childSectionId": "SALT"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ac0a22daf",
+      "depot": "1",
+      "sectionId": "CONFECTIONERY",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "MISCELLANEOUS CONFECTIONERY",
+      "childSectionId": "MISCELLANEOUS CONFECTIONERY"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a8c2305a4",
+      "depot": "1",
+      "sectionId": "DRINKS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "DRINKS - COLD",
+      "childSectionId": "DRINKS - COLD"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a0480cba4",
+      "depot": "1",
+      "sectionId": "DRINKS",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "DRINKS - HOT",
+      "childSectionId": "DRINKS - HOT"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a54480ea4",
+      "depot": "1",
+      "sectionId": "DRINKS - COLD",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SOFT DRINKS & JUICES",
+      "childSectionId": "SOFT DRINKS & JUICES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ad80e3ca4",
+      "depot": "1",
+      "sectionId": "DRINKS - COLD",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "WATER",
+      "childSectionId": "WATER"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ac0b471a9",
+      "depot": "1",
+      "sectionId": "DRINKS - COLD",
+      "sectionPosition": 1500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "COCONUT BASED DRINKS",
+      "childSectionId": "COCONUT BASED DRINKS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a189cf0ae",
+      "depot": "1",
+      "sectionId": "DRINKS - COLD",
+      "sectionPosition": 2000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "DAIRY ALTERNATIVES",
+      "childSectionId": "DAIRY ALTERNATIVES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ae4a5d4a4",
+      "depot": "1",
+      "sectionId": "DRINKS - HOT",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ASSORTED BEVERAGES",
+      "childSectionId": "ASSORTED BEVERAGES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ac4fc11c2",
+      "depot": "1",
+      "sectionId": "DRINKS - HOT",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "TEAS",
+      "childSectionId": "TEAS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a80208bc8",
+      "depot": "1",
+      "sectionId": "DRINKS - HOT",
+      "sectionPosition": 1500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "COFFEE & COFFEE SUBSTITUTES",
+      "childSectionId": "COFFEE & COFFEE SUBSTITUTES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0a60e13540",
+      "depot": "1",
+      "sectionId": "FISH & ALTERNATIVES",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "MISCELLANEOUS FISH & ALTERNATIVES",
+      "childSectionId": "MISCELLANEOUS FISH & ALTERNATIVES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a809de4a6",
+      "depot": "1",
+      "sectionId": "FLAPJACKS & BARS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "FLAPJACKS",
+      "childSectionId": "FLAPJACKS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0aa0ff70a7",
+      "depot": "1",
+      "sectionId": "FLAPJACKS & BARS",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "BARS",
+      "childSectionId": "BARS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a986b9da3",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SNACKS",
+      "childSectionId": "SNACKS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a04ac9aa4",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "HERBS,SPICES & SEASONINGS",
+      "childSectionId": "HERBS,SPICES & SEASONINGS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ab01ddba5",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 1500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "BISCUITS & COOKIES",
+      "childSectionId": "BISCUITS & COOKIES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0aa07cf0a5",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 2000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "BREAD PRODUCTS",
+      "childSectionId": "BREAD PRODUCTS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a305924a6",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 2500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "BAKING",
+      "childSectionId": "BAKING"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0af01c8ca6",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 3000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "PASTA, POLENTA & NOODLES",
+      "childSectionId": "PASTA, POLENTA & NOODLES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ac075dba6",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 3500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "FLAPJACKS & BARS",
+      "childSectionId": "FLAPJACKS & BARS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a588640a8",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 4000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "NUTS & SEEDS",
+      "childSectionId": "NUTS & SEEDS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ab4149ca8",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 4500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "NUT & SEED SPREADS",
+      "childSectionId": "NUT & SEED SPREADS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a60cfc6a8",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 5000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "OILS",
+      "childSectionId": "OILS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a9460e8a8",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 5500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "COCONUT PRODUCTS",
+      "childSectionId": "COCONUT PRODUCTS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a60e406a9",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 6000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SUGARS & SWEETENERS",
+      "childSectionId": "SUGARS & SWEETENERS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a58084aa9",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 6500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "CONDIMENTS",
+      "childSectionId": "CONDIMENTS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a688124af",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 7000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "CONFECTIONERY",
+      "childSectionId": "CONFECTIONERY"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a7044c6ba",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 7500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "BREAKFAST FOODS",
+      "childSectionId": "BREAKFAST FOODS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a08a48cbb",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 8000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "VEGETABLE & TOMATOES",
+      "childSectionId": "VEGETABLE & TOMATOES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a6476bdbb",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 8500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "BEANS & PULSES",
+      "childSectionId": "BEANS & PULSES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ad0c209bc",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 9000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "JAMS & SWEET SPREADS",
+      "childSectionId": "JAMS & SWEET SPREADS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a5c4262bc",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 9500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SYRUPS",
+      "childSectionId": "SYRUPS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a4ce286bc",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 10000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SAUCES",
+      "childSectionId": "SAUCES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a5c13cdbc",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 10500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "READY MEALS & SAVOURIES",
+      "childSectionId": "READY MEALS & SAVOURIES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ae0ee25be",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 11000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "FRUIT",
+      "childSectionId": "FRUIT"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a600fa3be",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 11500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "PATE & SAVOURY SPREAD",
+      "childSectionId": "PATE & SAVOURY SPREAD"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0af00dddbe",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 12000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "CHUTNEY, DRESSINGS & DIPS",
+      "childSectionId": "CHUTNEY, DRESSINGS & DIPS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a503497bf",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 12500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "HONEY",
+      "childSectionId": "HONEY"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ac0b9a0c0",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 13000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "OLIVES",
+      "childSectionId": "OLIVES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ab8fb3add",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 13500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SOUPS",
+      "childSectionId": "SOUPS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a50eb5cde",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 14000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "RICE & CORN CAKES",
+      "childSectionId": "RICE & CORN CAKES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0aa0966fdf",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 14500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "RICE & GRAINS",
+      "childSectionId": "RICE & GRAINS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a78c92ce0",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 15000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SEAWEED PRODUCTS",
+      "childSectionId": "SEAWEED PRODUCTS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0aa0a5e8fc",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 15500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "GRAVY & STOCK",
+      "childSectionId": "GRAVY & STOCK"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0a5097b100",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 16000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "MALT & MOLASSES",
+      "childSectionId": "MALT & MOLASSES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0a88b12940",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 16500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "FISH & ALTERNATIVES",
+      "childSectionId": "FISH & ALTERNATIVES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0a08607e5d",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 17000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "PASTE & CURRY BASES",
+      "childSectionId": "PASTE & CURRY BASES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0ac47bfc6b",
+      "depot": "1",
+      "sectionId": "FOOD",
+      "sectionPosition": 17500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "MISCELLANEOUS CONFECTIONERY [2]",
+      "childSectionId": "MISCELLANEOUS CONFECTIONERY [2]"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a703d38be",
+      "depot": "1",
+      "sectionId": "FRUIT",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ASSORTED FRUIT",
+      "childSectionId": "ASSORTED FRUIT"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0af8e604ac",
+      "depot": "1",
+      "sectionId": "GENERAL HEALTH - FIRST AID & REMEDIES",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "GENERAL VITAMINS & SUPPLEMENTS",
+      "childSectionId": "GENERAL VITAMINS & SUPPLEMENTS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a34ddf4fc",
+      "depot": "1",
+      "sectionId": "GRAVY & STOCK",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "GRAVY & ASSORTED STOCKS",
+      "childSectionId": "GRAVY & ASSORTED STOCKS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a60d3a3a4",
+      "depot": "1",
+      "sectionId": "HERBS,SPICES & SEASONINGS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SPICE & SEASONING",
+      "childSectionId": "SPICE & SEASONING"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a70760cbb",
+      "depot": "1",
+      "sectionId": "HERBS,SPICES & SEASONINGS",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "INTERNATIONAL HERB SPICE SEASONING",
+      "childSectionId": "INTERNATIONAL HERB SPICE SEASONING"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a485ba0bf",
+      "depot": "1",
+      "sectionId": "HONEY",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ASSORTED HONEY",
+      "childSectionId": "ASSORTED HONEY"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a64fb06d4",
+      "depot": "1",
+      "sectionId": "HONEY",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "MANUKA HONEY",
+      "childSectionId": "MANUKA HONEY"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a20fd54b9",
+      "depot": "1",
+      "sectionId": "HOUSEHOLD",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "HOUSEHOLD PRODUCTS",
+      "childSectionId": "HOUSEHOLD PRODUCTS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ae06130b9",
+      "depot": "1",
+      "sectionId": "HOUSEHOLD & PETS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "HOUSEHOLD",
+      "childSectionId": "HOUSEHOLD"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0aa0306ae1",
+      "depot": "1",
+      "sectionId": "HOUSEHOLD & PETS",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "PETCARE",
+      "childSectionId": "PETCARE"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a50dd0fbc",
+      "depot": "1",
+      "sectionId": "JAMS & SWEET SPREADS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "JAMS",
+      "childSectionId": "JAMS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a981b8ea3",
+      "depot": "1",
+      "sectionId": "Main",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "FOOD",
+      "childSectionId": "FOOD"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a5006ffa3",
+      "depot": "1",
+      "sectionId": "Main",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "DRINKS",
+      "childSectionId": "DRINKS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a0c0e5fa8",
+      "depot": "1",
+      "sectionId": "Main",
+      "sectionPosition": 1500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SUPERFOODS & SPORTS",
+      "childSectionId": "SUPERFOODS & SPORTS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a0c8216aa",
+      "depot": "1",
+      "sectionId": "Main",
+      "sectionPosition": 2000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "PERSONAL CARE & TOILETRIES",
+      "childSectionId": "PERSONAL CARE & TOILETRIES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a6ca5f5ab",
+      "depot": "1",
+      "sectionId": "Main",
+      "sectionPosition": 2500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "VITAMINS, MINERALS & SUPPLEMENTS",
+      "childSectionId": "VITAMINS, MINERALS & SUPPLEMENTS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a6c0ae4ad",
+      "depot": "1",
+      "sectionId": "Main",
+      "sectionPosition": 3000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "BABY & TODDLER",
+      "childSectionId": "BABY & TODDLER"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a0ce814b9",
+      "depot": "1",
+      "sectionId": "Main",
+      "sectionPosition": 3500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "HOUSEHOLD & PETS",
+      "childSectionId": "HOUSEHOLD & PETS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0ac0311001",
+      "depot": "1",
+      "sectionId": "MALT & MOLASSES",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "MALT ,MOLASSES & TREACLE",
+      "childSectionId": "MALT ,MOLASSES & TREACLE"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0ab0a9056c",
+      "depot": "1",
+      "sectionId": "MISCELLANEOUS CONFECTIONERY [2]",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "MISCELLANEOUS CONFECTIONERY [3]",
+      "childSectionId": "MISCELLANEOUS CONFECTIONERY [3]"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ad02ea2a8",
+      "depot": "1",
+      "sectionId": "NUT & SEED SPREADS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "PEANUT BUTTERS",
+      "childSectionId": "PEANUT BUTTERS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0a2019d436",
+      "depot": "1",
+      "sectionId": "NUT & SEED SPREADS",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ASSORTED NUT BUTTERS",
+      "childSectionId": "ASSORTED NUT BUTTERS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0a4cb36c37",
+      "depot": "1",
+      "sectionId": "NUT & SEED SPREADS",
+      "sectionPosition": 1500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SEED SPREADS & TAHINI",
+      "childSectionId": "SEED SPREADS & TAHINI"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ae8a446a8",
+      "depot": "1",
+      "sectionId": "NUTS & SEEDS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SEEDS",
+      "childSectionId": "SEEDS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0a8c9e753f",
+      "depot": "1",
+      "sectionId": "NUTS & SEEDS",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "CHESTNUT PRODUCTS",
+      "childSectionId": "CHESTNUT PRODUCTS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a44f6cfa8",
+      "depot": "1",
+      "sectionId": "OILS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "COCONUT OIL",
+      "childSectionId": "COCONUT OIL"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a387336ae",
+      "depot": "1",
+      "sectionId": "OILS",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "OLIVE OIL",
+      "childSectionId": "OLIVE OIL"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a342e61ae",
+      "depot": "1",
+      "sectionId": "OILS",
+      "sectionPosition": 1500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ASSORTED OILS",
+      "childSectionId": "ASSORTED OILS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a8807b3c0",
+      "depot": "1",
+      "sectionId": "OLIVES",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ASSORTED OLIVES",
+      "childSectionId": "ASSORTED OLIVES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a6c3b92a6",
+      "depot": "1",
+      "sectionId": "PASTA, POLENTA & NOODLES",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ASSORTED PASTA",
+      "childSectionId": "ASSORTED PASTA"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a204787dd",
+      "depot": "1",
+      "sectionId": "PASTA, POLENTA & NOODLES",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "NOODLES",
+      "childSectionId": "NOODLES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0a1877845d",
+      "depot": "1",
+      "sectionId": "PASTE & CURRY BASES",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "CURRY BASE,MIX & PASTE",
+      "childSectionId": "CURRY BASE,MIX & PASTE"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a6c3bacbe",
+      "depot": "1",
+      "sectionId": "PATE & SAVOURY SPREAD",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "PATE & SPREAD",
+      "childSectionId": "PATE & SPREAD"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a1c9e1caa",
+      "depot": "1",
+      "sectionId": "PERSONAL CARE & TOILETRIES",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "TOILETRIES & BODYCARE",
+      "childSectionId": "TOILETRIES & BODYCARE"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0afc5773e1",
+      "depot": "1",
+      "sectionId": "PETCARE",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "PET CARE - FOOD",
+      "childSectionId": "PET CARE - FOOD"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a903fd6bc",
+      "depot": "1",
+      "sectionId": "READY MEALS & SAVOURIES",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "TOFU & SEITAN",
+      "childSectionId": "TOFU & SEITAN"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a904bbfe0",
+      "depot": "1",
+      "sectionId": "READY MEALS & SAVOURIES",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "MEAT FREE SAVOURIES",
+      "childSectionId": "MEAT FREE SAVOURIES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0ad8006060",
+      "depot": "1",
+      "sectionId": "READY MEALS & SAVOURIES",
+      "sectionPosition": 1500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "READY MEALS & KITS",
+      "childSectionId": "READY MEALS & KITS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0af81d69de",
+      "depot": "1",
+      "sectionId": "RICE & CORN CAKES",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SAVOURY",
+      "childSectionId": "SAVOURY"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0a98471d56",
+      "depot": "1",
+      "sectionId": "RICE & CORN CAKES",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SWEET",
+      "childSectionId": "SWEET"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a50ba78df",
+      "depot": "1",
+      "sectionId": "RICE & GRAINS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "COUSCOUS & QUINOA",
+      "childSectionId": "COUSCOUS & QUINOA"
+    },
+    {
+      "id": "973731b1-79a2-30b0-b714-7107e4ed962b",
+      "depot": "1",
+      "sectionId": "Root",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "Main",
+      "childSectionId": "Main"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0adc0c90bc",
+      "depot": "1",
+      "sectionId": "SAUCES",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "TABLE SAUCES",
+      "childSectionId": "TABLE SAUCES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ab82ad0dc",
+      "depot": "1",
+      "sectionId": "SAUCES",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "INTERNATIONAL SAUCES",
+      "childSectionId": "INTERNATIONAL SAUCES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0a6465413e",
+      "depot": "1",
+      "sectionId": "SAUCES",
+      "sectionPosition": 1500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "COOKING SAUCES",
+      "childSectionId": "COOKING SAUCES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a84f035e0",
+      "depot": "1",
+      "sectionId": "SEAWEED PRODUCTS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SEAWEED & SNACKS",
+      "childSectionId": "SEAWEED & SNACKS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0afc85a6a3",
+      "depot": "1",
+      "sectionId": "SNACKS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ASSORTED SNACKS",
+      "childSectionId": "ASSORTED SNACKS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a9487c3b0",
+      "depot": "1",
+      "sectionId": "SNACKS",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "CHIPS, CRISPS & DIPPERS",
+      "childSectionId": "CHIPS, CRISPS & DIPPERS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ad07fd3b2",
+      "depot": "1",
+      "sectionId": "SNACKS",
+      "sectionPosition": 1500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ENERGY & FUNCTIONAL SNACKS",
+      "childSectionId": "ENERGY & FUNCTIONAL SNACKS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a88bc85ca",
+      "depot": "1",
+      "sectionId": "SNACKS",
+      "sectionPosition": 2000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "FRUIT SNACKS",
+      "childSectionId": "FRUIT SNACKS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a60ccdfdd",
+      "depot": "1",
+      "sectionId": "SNACKS",
+      "sectionPosition": 2500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "INTERNATIONAL SNACKS",
+      "childSectionId": "INTERNATIONAL SNACKS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0a10c28b22",
+      "depot": "1",
+      "sectionId": "SNACKS",
+      "sectionPosition": 3000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "POPCORN & PRETZELS",
+      "childSectionId": "POPCORN & PRETZELS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0ac4f21969",
+      "depot": "1",
+      "sectionId": "SNACKS",
+      "sectionPosition": 3500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "NUTS",
+      "childSectionId": "NUTS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a742744dd",
+      "depot": "1",
+      "sectionId": "SOUPS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "INTERNATIONAL SOUPS",
+      "childSectionId": "INTERNATIONAL SOUPS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1e0a18923b5e",
+      "depot": "1",
+      "sectionId": "SOUPS",
+      "sectionPosition": 1000,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ASSORTED SOUPS",
+      "childSectionId": "ASSORTED SOUPS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a44ff0ca9",
+      "depot": "1",
+      "sectionId": "SUGARS & SWEETENERS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SUGARS",
+      "childSectionId": "SUGARS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a5c546ea8",
+      "depot": "1",
+      "sectionId": "SUPERFOOD & SPORTS NUTRITION",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SUPERFOODS AND SPORTS",
+      "childSectionId": "SUPERFOODS AND SPORTS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0aec2765a8",
+      "depot": "1",
+      "sectionId": "SUPERFOODS & SPORTS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "SUPERFOOD & SPORTS NUTRITION",
+      "childSectionId": "SUPERFOOD & SPORTS NUTRITION"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ae06e6bbc",
+      "depot": "1",
+      "sectionId": "SYRUPS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ASSORTED SYRUPS",
+      "childSectionId": "ASSORTED SYRUPS"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a98b722aa",
+      "depot": "1",
+      "sectionId": "TOILETRIES & BODYCARE",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ASSORTED BODYCARE",
+      "childSectionId": "ASSORTED BODYCARE"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0a6ccd95bb",
+      "depot": "1",
+      "sectionId": "VEGETABLE & TOMATOES",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "ASSORTED VEGETABLES",
+      "childSectionId": "ASSORTED VEGETABLES"
+    },
+    {
+      "id": "c7118e0f-d250-adbd-b714-1d0ab4c0fbab",
+      "depot": "1",
+      "sectionId": "VITAMINS, MINERALS & SUPPLEMENTS",
+      "sectionPosition": 500,
+      "sectionType": "s:Section",
+      "productCode": "",
+      "childSectionDescription": "GENERAL HEALTH - FIRST AID & REMEDIES",
+      "childSectionId": "GENERAL HEALTH - FIRST AID & REMEDIES"
+    }
+  ],
+  "_count": 135
+}

@@ -1,0 +1,22 @@
+{
+    "invoices": [
+        {
+        "id": "a01,13141,2020-03-17",
+        "depot": "a01",
+        "invoiceNumber": 13141,
+        "invoiceDate": "2020-03-17",
+        "lastUpdate": "2021-08-24T11:00:09.018",
+        "weekNumber": 12,
+        "customerRef": "PO 12345",
+        "totalValue": 10.72,
+        "orderNumber": 13141,
+        "orderID": "a01,013141,2020-03-17",
+        "externalOrderRef": "X123456",
+        "customerCode": "10001",
+        "orderType": 1,
+        "orderTypeDescription": "Grocery",
+        "deliveryDate": "2020-03-17",
+        "invoicePDF": "GET http://development:8820/connect/rest/api/v1/documents?docType=Invoice&depot=a01&invoiceNumber=13141&deliveryDate=2020-03-17"
+        }
+    ]
+}

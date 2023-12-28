@@ -1,0 +1,18 @@
+{
+    "depots": [
+      {
+        "depot": "1",
+        "depotName": "Depot 1",
+        "deliveryAddress1": "Core Fulfilment",
+        "deliveryAddress2": "Unit 1, Apollo Way",
+        "deliveryAddress3": "University Way",
+        "deliveryAddress4": "Crewe",
+        "deliveryPostcode": "CW1 6HX",
+        "b2cGuestCustomer": "",
+        "b2cGuestPickupMethod": "Delivery",
+        "registeredPickupMethod": "Both",
+        "countryCode": "UK"
+      }
+    ],
+    "_count": 1
+  }

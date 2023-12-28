@@ -1,0 +1,504 @@
+{
+    "products":[
+        {
+            "productCode": "10000c",
+            "productStatus": "a:Active",
+            "activeDate": "2023-06-30",
+            "canOrder": true,
+            "canNotOrderDepots": [
+              "2"
+            ],
+            "description": "Noisy Snacks Crunchy Broad Beans Pulled Por",
+            "descriptionLine2": "Crunchy Broad Beans Pulled Por",
+            "consumerDescription": "Noisy Snacks Crunchy Broad Beans Pulled Pork [10x25g]",
+            "packDescription": "25g",
+            "packUnit": 10,
+            "VATCode": "A",
+            "VATRate": 0.0,
+            "productGroup": "94",
+            "supplierCode": "1000",
+            "splitIndicator": "0:Main",
+            "mainProductCode": "",
+            "financialIndicator": "n:Normal",
+            "weighted": "0:Not Weighted",
+            "comment": "",
+            "caseLength": 22.00,
+            "caseWidth": 7.50,
+            "caseHeight": 15.00,
+            "nationalProductCode": "",
+            "portionsPerCase": 0,
+            "portionWeight": 0.000,
+            "ingredients": "",
+            "preparation": "",
+            "sellAs": "C",
+            "details": "",
+            "overrideDetails": "",
+            "overrideDate": null,
+            "origin": "",
+            "brandDesc": "",
+            "allergens": [
+              {
+                "allergenName": "Vegan",
+                "allergenQualifier": "s:Suitable for"
+              }
+            ],
+            "barcodes": [
+              {
+                "eanCode": 0.0,
+                "tuc": 5065010497061.0,
+                "eanLastUpdate": "2023-06-30"
+              }
+            ]
+        },
+        {
+            "productCode": "10001c",
+            "productStatus": "a:Active",
+            "activeDate": "2023-06-30",
+            "canOrder": true,
+            "canNotOrderDepots": [
+              "2"
+            ],
+            "description": "Noisy Snacks Crunchy Broad Beans Beef Brisk",
+            "descriptionLine2": "Crunchy Broad Beans Beef Brisk",
+            "consumerDescription": "Noisy Snacks Crunchy Broad Beans Beef Brisket [10x25g]",
+            "packDescription": "25g",
+            "packUnit": 10,
+            "VATCode": "A",
+            "VATRate": 0.0,
+            "productGroup": "94",
+            "supplierCode": "1000",
+            "splitIndicator": "0:Main",
+            "mainProductCode": "",
+            "financialIndicator": "n:Normal",
+            "weighted": "0:Not Weighted",
+            "comment": "",
+            "caseLength": 22.00,
+            "caseWidth": 7.50,
+            "caseHeight": 15.00,
+            "nationalProductCode": "",
+            "portionsPerCase": 0,
+            "portionWeight": 0.000,
+            "ingredients": "",
+            "preparation": "",
+            "sellAs": "C",
+            "details": "",
+            "overrideDetails": "",
+            "overrideDate": null,
+            "origin": "",
+            "brandDesc": "",
+            "allergens": [
+              {
+                "allergenName": "Vegan",
+                "allergenQualifier": "s:Suitable for"
+              }
+            ],
+            "barcodes": [
+              {
+                "eanCode": 0.0,
+                "tuc": 5065010497054.0,
+                "eanLastUpdate": "2023-06-30"
+              }
+            ]
+        },
+        {
+            "productCode": "10002c",
+            "productStatus": "a:Active",
+            "activeDate": "2023-06-30",
+            "canOrder": true,
+            "canNotOrderDepots": [
+              "2"
+            ],
+            "description": "Noisy Snacks Coated Chickpeas Chip Shop Cur",
+            "descriptionLine2": "Coated Chickpeas Chip Shop Cur",
+            "consumerDescription": "Noisy Snacks Coated Chickpeas Chip Shop Curry [10x25g]",
+            "packDescription": "25g",
+            "packUnit": 10,
+            "VATCode": "A",
+            "VATRate": 0.0,
+            "productGroup": "94",
+            "supplierCode": "1000",
+            "splitIndicator": "0:Main",
+            "mainProductCode": "",
+            "financialIndicator": "n:Normal",
+            "weighted": "0:Not Weighted",
+            "comment": "",
+            "caseLength": 22.00,
+            "caseWidth": 7.50,
+            "caseHeight": 15.00,
+            "nationalProductCode": "",
+            "portionsPerCase": 0,
+            "portionWeight": 0.000,
+            "ingredients": "",
+            "preparation": "",
+            "sellAs": "C",
+            "details": "",
+            "overrideDetails": "",
+            "overrideDate": null,
+            "origin": "",
+            "brandDesc": "",
+            "allergens": [
+              {
+                "allergenName": "Vegan",
+                "allergenQualifier": "s:Suitable for"
+              }
+            ],
+            "barcodes": [
+              {
+                "eanCode": 0.0,
+                "tuc": 5065010497030.0,
+                "eanLastUpdate": "2023-06-30"
+              }
+            ]
+        },
+        {
+            "productCode": "10003c",
+            "productStatus": "a:Active",
+            "activeDate": "2023-06-30",
+            "canOrder": true,
+            "canNotOrderDepots": [
+              "2"
+            ],
+            "description": "Noisy Snacks Coated Chickpeas Piri Mango",
+            "descriptionLine2": "Coated Chickpeas Piri Mango",
+            "consumerDescription": "Noisy Snacks Coated Chickpeas Piri Mango [10x25g]",
+            "packDescription": "25g",
+            "packUnit": 10,
+            "VATCode": "A",
+            "VATRate": 0.0,
+            "productGroup": "94",
+            "supplierCode": "1000",
+            "splitIndicator": "0:Main",
+            "mainProductCode": "",
+            "financialIndicator": "n:Normal",
+            "weighted": "0:Not Weighted",
+            "comment": "",
+            "caseLength": 22.00,
+            "caseWidth": 7.50,
+            "caseHeight": 15.00,
+            "nationalProductCode": "",
+            "portionsPerCase": 0,
+            "portionWeight": 0.000,
+            "ingredients": "",
+            "preparation": "",
+            "sellAs": "C",
+            "details": "",
+            "overrideDetails": "",
+            "overrideDate": null,
+            "origin": "",
+            "brandDesc": "",
+            "allergens": [
+              {
+                "allergenName": "Vegan",
+                "allergenQualifier": "s:Suitable for"
+              }
+            ],
+            "barcodes": [
+              {
+                "eanCode": 0.0,
+                "tuc": 5065010497047.0,
+                "eanLastUpdate": "2023-06-30"
+              }
+            ]
+        },
+        {
+            "productCode": "10004c",
+            "productStatus": "a:Active",
+            "activeDate": "2023-06-30",
+            "canOrder": true,
+            "canNotOrderDepots": [
+              "2"
+            ],
+            "description": "Noisy Snacks Peanuts Pickled Onion",
+            "descriptionLine2": "Peanuts Pickled Onion",
+            "consumerDescription": "Noisy Snacks Peanuts Pickled Onion [6x150g]",
+            "packDescription": "150g",
+            "packUnit": 6,
+            "VATCode": "B",
+            "VATRate": 20.0,
+            "productGroup": "94",
+            "supplierCode": "1000",
+            "splitIndicator": "0:Main",
+            "mainProductCode": "",
+            "financialIndicator": "n:Normal",
+            "weighted": "0:Not Weighted",
+            "comment": "",
+            "caseLength": 25.00,
+            "caseWidth": 13.50,
+            "caseHeight": 18.00,
+            "nationalProductCode": "",
+            "portionsPerCase": 0,
+            "portionWeight": 0.000,
+            "ingredients": "",
+            "preparation": "",
+            "sellAs": "C",
+            "details": "",
+            "overrideDetails": "",
+            "overrideDate": null,
+            "origin": "",
+            "brandDesc": "",
+            "allergens": [
+              {
+                "allergenName": "Vegan",
+                "allergenQualifier": "s:Suitable for"
+              }
+            ],
+            "barcodes": [
+              {
+                "eanCode": 0.0,
+                "tuc": 5065010497023.0,
+                "eanLastUpdate": "2023-06-30"
+              }
+            ]
+        },
+        {
+            "productCode": "10005c",
+            "productStatus": "a:Active",
+            "activeDate": "2023-06-30",
+            "canOrder": true,
+            "canNotOrderDepots": [
+              "2"
+            ],
+            "description": "Noisy Snacks Coated Chickpeas Chip Shop Cur",
+            "descriptionLine2": "Coated Chickpeas Chip Shop Cur",
+            "consumerDescription": "Noisy Snacks Coated Chickpeas Chip Shop Curry [7x100g]",
+            "packDescription": "100g",
+            "packUnit": 7,
+            "VATCode": "A",
+            "VATRate": 0.0,
+            "productGroup": "94",
+            "supplierCode": "1000",
+            "splitIndicator": "0:Main",
+            "mainProductCode": "",
+            "financialIndicator": "n:Normal",
+            "weighted": "0:Not Weighted",
+            "comment": "",
+            "caseLength": 25.00,
+            "caseWidth": 13.50,
+            "caseHeight": 18.00,
+            "nationalProductCode": "",
+            "portionsPerCase": 0,
+            "portionWeight": 0.000,
+            "ingredients": "",
+            "preparation": "",
+            "sellAs": "C",
+            "details": "",
+            "overrideDetails": "",
+            "overrideDate": null,
+            "origin": "",
+            "brandDesc": "",
+            "allergens": [
+              {
+                "allergenName": "Vegan",
+                "allergenQualifier": "s:Suitable for"
+              }
+            ],
+            "barcodes": [
+              {
+                "eanCode": 0.0,
+                "tuc": 5065010497009.0,
+                "eanLastUpdate": "2023-06-30"
+              }
+            ]
+        },
+        {
+            "productCode": "10006c",
+            "productStatus": "a:Active",
+            "activeDate": "2023-06-30",
+            "canOrder": true,
+            "canNotOrderDepots": [
+              "2"
+            ],
+            "description": "Noisy Snacks Crunchy Broad Beans Beef Brisk",
+            "descriptionLine2": "Crunchy Broad Beans Beef Brisk",
+            "consumerDescription": "Noisy Snacks Crunchy Broad Beans Beef Brisket [7x100g]",
+            "packDescription": "100g",
+            "packUnit": 7,
+            "VATCode": "A",
+            "VATRate": 0.0,
+            "productGroup": "94",
+            "supplierCode": "1000",
+            "splitIndicator": "0:Main",
+            "mainProductCode": "",
+            "financialIndicator": "n:Normal",
+            "weighted": "0:Not Weighted",
+            "comment": "",
+            "caseLength": 25.00,
+            "caseWidth": 13.50,
+            "caseHeight": 18.00,
+            "nationalProductCode": "",
+            "portionsPerCase": 0,
+            "portionWeight": 0.000,
+            "ingredients": "",
+            "preparation": "",
+            "sellAs": "C",
+            "details": "",
+            "overrideDetails": "",
+            "overrideDate": null,
+            "origin": "",
+            "brandDesc": "",
+            "allergens": [
+              {
+                "allergenName": "Vegan",
+                "allergenQualifier": "s:Suitable for"
+              }
+            ],
+            "barcodes": [
+              {
+                "eanCode": 0.0,
+                "tuc": 5065010497016.0,
+                "eanLastUpdate": "2023-06-30"
+              }
+            ]
+        },
+        {
+            "productCode": "10007c",
+            "productStatus": "a:Active",
+            "activeDate": "2023-06-30",
+            "canOrder": true,
+            "canNotOrderDepots": [
+              "2"
+            ],
+            "description": "ALO Exposed (Honey)",
+            "descriptionLine2": "Exposed (Honey)",
+            "consumerDescription": "ALO Exposed (Honey) [12x500ml]",
+            "packDescription": "500ml",
+            "packUnit": 12,
+            "VATCode": "B",
+            "VATRate": 20.0,
+            "productGroup": "115",
+            "supplierCode": "1001",
+            "splitIndicator": "0:Main",
+            "mainProductCode": "",
+            "financialIndicator": "n:Normal",
+            "weighted": "0:Not Weighted",
+            "comment": "",
+            "caseLength": 24.00,
+            "caseWidth": 18.00,
+            "caseHeight": 21.00,
+            "nationalProductCode": "",
+            "portionsPerCase": 0,
+            "portionWeight": 0.000,
+            "ingredients": "",
+            "preparation": "",
+            "sellAs": "",
+            "details": "",
+            "overrideDetails": "",
+            "overrideDate": null,
+            "origin": "",
+            "brandDesc": "",
+            "allergens": [
+              {
+                "allergenName": "Vegan",
+                "allergenQualifier": "s:Suitable for"
+              }
+            ],
+            "barcodes": [
+              {
+                "eanCode": 0.0,
+                "tuc": 812475011227.0,
+                "eanLastUpdate": "2023-06-30"
+              }
+            ]
+        },
+        {
+            "productCode": "10008c",
+            "productStatus": "a:Active",
+            "activeDate": "2023-06-30",
+            "canOrder": true,
+            "canNotOrderDepots": [
+              "2"
+            ],
+            "description": "ALO Allure (Mango & Mangosteen)",
+            "descriptionLine2": "Allure (Mango & Mangosteen)",
+            "consumerDescription": "ALO Allure (Mango & Mangosteen) [12x500ml]",
+            "packDescription": "500ml",
+            "packUnit": 12,
+            "VATCode": "B",
+            "VATRate": 20.0,
+            "productGroup": "115",
+            "supplierCode": "1001",
+            "splitIndicator": "0:Main",
+            "mainProductCode": "",
+            "financialIndicator": "n:Normal",
+            "weighted": "0:Not Weighted",
+            "comment": "",
+            "caseLength": 24.00,
+            "caseWidth": 18.00,
+            "caseHeight": 21.00,
+            "nationalProductCode": "",
+            "portionsPerCase": 0,
+            "portionWeight": 0.000,
+            "ingredients": "",
+            "preparation": "",
+            "sellAs": "",
+            "details": "",
+            "overrideDetails": "",
+            "overrideDate": null,
+            "origin": "",
+            "brandDesc": "",
+            "allergens": [
+              {
+                "allergenName": "Vegan",
+                "allergenQualifier": "s:Suitable for"
+              }
+            ],
+            "barcodes": [
+              {
+                "eanCode": 0.0,
+                "tuc": 812475011258.0,
+                "eanLastUpdate": "2023-06-30"
+              }
+            ]
+        },
+        {
+            "productCode": "10009c",
+            "productStatus": "a:Active",
+            "activeDate": "2023-06-30",
+            "canOrder": true,
+            "canNotOrderDepots": [
+              "2"
+            ],
+            "description": "ALO Enrich (Pomegranate & Cranberr",
+            "descriptionLine2": "Enrich (Pomegranate & Cranberr",
+            "consumerDescription": "ALO Enrich (Pomegranate & Cranberry) [12x500ml]",
+            "packDescription": "500ml",
+            "packUnit": 12,
+            "VATCode": "B",
+            "VATRate": 20.0,
+            "productGroup": "115",
+            "supplierCode": "1001",
+            "splitIndicator": "0:Main",
+            "mainProductCode": "",
+            "financialIndicator": "n:Normal",
+            "weighted": "0:Not Weighted",
+            "comment": "",
+            "caseLength": 24.00,
+            "caseWidth": 18.00,
+            "caseHeight": 21.00,
+            "nationalProductCode": "",
+            "portionsPerCase": 0,
+            "portionWeight": 0.000,
+            "ingredients": "",
+            "preparation": "",
+            "sellAs": "",
+            "details": "",
+            "overrideDetails": "",
+            "overrideDate": null,
+            "origin": "",
+            "brandDesc": "",
+            "allergens": [
+              {
+                "allergenName": "Vegan",
+                "allergenQualifier": "s:Suitable for"
+              }
+            ],
+            "barcodes": [
+              {
+                "eanCode": 0.0,
+                "tuc": 812475011265.0,
+                "eanLastUpdate": "2023-06-30"
+              }
+            ]
+        }            
+    ]
+}

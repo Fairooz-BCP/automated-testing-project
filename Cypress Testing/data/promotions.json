@@ -1,0 +1,25 @@
+{
+    "promotions": [
+      {
+        "id": "0001",
+        "promotionCode": "0001",
+        "entryType": "0:AllOrders",
+        "comment": "WFM October 23",
+        "startDate": "2023-09-27",
+        "endDate": "2024-1-31",
+        "currencyCode": "GBP",
+        "relatedProducts": [
+          "10000c",
+          "10001c",
+          "10002c",
+          "10003c",
+          "10004c",
+          "10005c",
+          "10006c",
+          "10007c",
+          "10008c",
+          "10009c"
+        ]
+      }
+    ]
+}    
