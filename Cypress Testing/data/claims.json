@@ -1,0 +1,15 @@
+{
+    "claims": [
+        {
+            "depot": "a01",
+            "claimNumber": 128,
+            "claimDate": "2023-02-13",
+            "claimStatus": "a:Approved",
+            "claimValue": 87.35,
+            "customerCode": "web002",
+            "originalInvoice": 290,
+            "originalCustomerRef": "",
+            "originalOrderId": "a01,2817,2023-02-13"
+        }
+    ]
+  }

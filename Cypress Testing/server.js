@@ -13,6 +13,7 @@ const promotions = require('./data/promotions.json')
 const mixMatchSchemes = require('./data/mixandmatch.json')
 const customers = require('./data/customers.json');
 const deliverySchedules = require('./data/deliverySchedules.json')
+const claims = require('./data/claims.json')
 
 const { mockOrderResponse } = require('./responses/placeOrder');
 
@@ -93,6 +94,14 @@ app.post('/rest/api/v1/placeOrder', async (req, res) => {
 app.get("/rest/api/v1/deliverySchedules", (req, res) => {
     res.json(deliverySchedules)
 });
+
+// Route for claims
+app.get("/rest/api/v1/claims", (req, res) => {
+    res.json(claims)
+});
+
+// Route for claim lines
+
 
 app.get('/*', (req, res) =>{
     console.log(req.path)
