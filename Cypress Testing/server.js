@@ -12,6 +12,7 @@ const products = require('./data/products.json');
 const promotions = require('./data/promotions.json')
 const mixMatchSchemes = require('./data/mixandmatch.json')
 const customers = require('./data/customers.json');
+const deliverySchedules = require('./data/deliverySchedules.json')
 
 const { mockOrderResponse } = require('./responses/placeOrder');
 
@@ -86,7 +87,12 @@ app.post('/rest/api/v1/placeOrder', async (req, res) => {
        console.log(err)
        res.status(500).json({ error: 'An error occurred while creating the order.' });
     }
-}) 
+})
+
+// Route for delivery schedules
+app.get("/rest/api/v1/deliverySchedules", (req, res) => {
+    res.json(deliverySchedules)
+});
 
 app.get('/*', (req, res) =>{
     console.log(req.path)

@@ -1,0 +1,115 @@
+{
+    "deliverySchedules": [
+        {
+            "defaultDeliveryDate": "2023-04-10",
+            "deliveryAddress" :[
+                {
+                    "address":"1 HighlandRise",
+                    "postcode": "SKT TT1"
+                }
+            ],
+            "deliveryDates": [
+                {
+                    "deliveryDate": "2023-04-11",
+                    "deliveryDepot": "a01"
+                }
+            ],
+            "shippingOptions" :[
+                {
+                    "carrierID": 1,
+                    "maxOrderValue": 250,
+                    "deliveryCharge": 10
+                }
+            ]
+
+        },
+        {
+            "defaultDeliveryDate": "2023-05-10",
+            "deliveryAddress" :[
+                {
+                    "address":"1 Adrea Avenue",
+                    "postcode": "WD7 AA3"
+                }
+            ],
+            "deliveryDates": [
+                {
+                    "deliveryDate": "2023-05-11",
+                    "deliveryDepot": "a01"
+                }
+            ],
+            "shippingOptions" :[
+                {
+                    "carrierID": 2,
+                    "maxOrderValue": 100,
+                    "deliveryCharge": 10
+                }
+            ]
+        },
+        {
+            "defaultDeliveryDate": "2023-06-10",
+            "deliveryAddress" :[
+                {
+                    "address":"1 Blue Lagoon",
+                    "postcode": "BB8 45B"
+                }
+            ],
+            "deliveryDates": [
+                {
+                    "deliveryDate": "2023-06-11",
+                    "deliveryDepot": "a01"
+                }
+            ],
+            "shippingOptions" :[
+                {
+                    "carrierID": 3,
+                    "maxOrderValue": 150,
+                    "deliveryCharge": 10
+                }
+            ]
+        },
+        {
+            "defaultDeliveryDate": "2023-07-10",
+            "deliveryAddress" :[
+                {
+                    "address":"4 MullandRise",
+                    "postcode": "MN3 89J"
+                }
+            ],
+            "deliveryDates": [
+                {
+                    "deliveryDate": "2023-07-11",
+                    "deliveryDepot": "a01"
+                }
+            ],
+            "shippingOptions" :[
+                {
+                    "carrierID": 4,
+                    "maxOrderValue": 250,
+                    "deliveryCharge": 10
+                }
+            ]
+        },
+        {
+            "defaultDeliveryDate": "2023-08-10",
+            "deliveryAddress" :[
+                {
+                    "address":"5 Richmond Square",
+                    "postcode": "RT3 7RT"
+                }
+            ],
+            "deliveryDates": [
+                {
+                    "deliveryDate": "2023-08-11",
+                    "deliveryDepot": "a01"
+                }
+            ],
+            "shippingOptions" :[
+                {
+                    "carrierID": 5,
+                    "maxOrderValue": 250,
+                    "deliveryCharge": 10
+                }
+            ]
+        }
+    ]
+}
