@@ -1,0 +1,114 @@
+{
+    "claimLines": [
+      {
+        "id": "a01,128,1",
+        "productCode": "3252227",
+        "productDescription": "Angelic Gluten Free Tomato & Mediterranean Herb Crackers 150",
+        "packSize": "22 x 150g ",
+        "reasonDescription": "Damaged",
+        "sentQuantity": 1,
+        "quantityType": "c:Cases",
+        "correctPrice": 85.36,
+        "lineMessage": ""
+      },
+      {
+        "id": "a01,136,1",
+        "productCode": "3712701",
+        "productDescription": "Kingsmill Crumpets Round 6 Pack",
+        "packSize": "32 x 6 x C",
+        "reasonDescription": "Oporteo Credit Claim",
+        "sentQuantity": 14,
+        "quantityType": "c:Cases",
+        "correctPrice": 36.99,
+        "lineMessage": ""
+      },
+      {
+        "id": "a01,136,2",
+        "productCode": "3589286",
+        "productDescription": "The Cake Crew 12 Cupcake Platter",
+        "packSize": "12 x 12 x ",
+        "reasonDescription": "Oporteo Credit Claim",
+        "sentQuantity": 2,
+        "quantityType": "c:Cases",
+        "correctPrice": 28.68,
+        "lineMessage": ""
+      },
+      {
+        "id": "a01,136,3",
+        "productCode": "3405180",
+        "productDescription": "Bonne Maman 2 Madeleines 50g",
+        "packSize": "28 x 50g",
+        "reasonDescription": "Oporteo Credit Claim",
+        "sentQuantity": 1,
+        "quantityType": "c:Cases",
+        "correctPrice": 43.68,
+        "lineMessage": ""
+      },
+      {
+        "id": "a01,136,4",
+        "productCode": "3378479",
+        "productDescription": "Brioche Pasquier Pains Au Chocolat 4 x 45g (180g)",
+        "packSize": "12 x 4 x 4",
+        "reasonDescription": "Oporteo Credit Claim",
+        "sentQuantity": 1,
+        "quantityType": "c:Cases",
+        "correctPrice": 14.76,
+        "lineMessage": ""
+      },    {
+        "id": "a01,137,1",
+        "productCode": "440044",
+        "productDescription": "Kp Salt & Vinegar Frisps",
+        "packSize": "48 x 30gm",
+        "reasonDescription": "Oporteo Credit Claim",
+        "sentQuantity": 1,
+        "quantityType": "c:Cases",
+        "correctPrice": 10.82,
+        "lineMessage": ""
+      },
+      {
+        "id": "a01,137,2",
+        "productCode": "440000",
+        "productDescription": "Cadbury's High Tea",
+        "packSize": "12 x 150g",
+        "reasonDescription": "Oporteo Credit Claim",
+        "sentQuantity": 1,
+        "quantityType": "c:Cases",
+        "correctPrice": 5.27,
+        "lineMessage": ""
+      },
+      {
+        "id": "a01,137,3",
+        "productCode": "3710928",
+        "productDescription": "De Cecco Tortiglioni 500g",
+        "packSize": "9 x 500g e",
+        "reasonDescription": "Oporteo Credit Claim",
+        "sentQuantity": 1,
+        "quantityType": "c:Cases",
+        "correctPrice": 22.68,
+        "lineMessage": ""
+      },
+      {
+        "id": "a01,137,4",
+        "productCode": "3710929",
+        "productDescription": "De Cecco Rigatoni 500g",
+        "packSize": "42 x 500g ",
+        "reasonDescription": "Oporteo Credit Claim",
+        "sentQuantity": 1,
+        "quantityType": "c:Cases",
+        "correctPrice": 176.40,
+        "lineMessage": ""
+      },
+      {
+        "id": "a01,137,5",
+        "productCode": "3693716",
+        "productDescription": "Cadbury Dairy Milk Caramel Chocolate Bar 120g",
+        "packSize": "34 x 120g ",
+        "reasonDescription": "Oporteo Credit Claim",
+        "sentQuantity": 1,
+        "quantityType": "c:Cases",
+        "correctPrice": 113.56,
+        "lineMessage": ""
+      }
+    ]
+  }
+  
