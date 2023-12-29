@@ -15,6 +15,7 @@ const customers = require('./data/customers.json');
 const deliverySchedules = require('./data/deliverySchedules.json')
 const claims = require('./data/claims.json')
 const claimLines = require('./data/claimLines.json')
+const orderLines = require('./data/orderLines.json')
 
 const { mockOrderResponse } = require('./responses/placeOrder');
 
@@ -80,6 +81,13 @@ app.get("/rest/api/v1/customers", (req, res) => {
     res.json(customers)
 });
 
+// Route for order
+
+// Route for order lines
+app.get("/rest/api/v1/orderLines", (req, res) => {
+    res.json(orderLines)
+});
+
 // Route to accept order
 app.post('/rest/api/v1/placeOrder', async (req, res) => {
     try {
@@ -105,6 +113,7 @@ app.get("/rest/api/v1/claims", (req, res) => {
 app.get("/rest/api/v1/claimLines", (req, res) => {
     res.json(claimLines)
 });
+
 
 app.get('/*', (req, res) =>{
     console.log(req.path)
