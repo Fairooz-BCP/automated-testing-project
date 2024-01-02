@@ -16,7 +16,7 @@
         "orderType": 1,
         "orderTypeDescription": "Grocery",
         "deliveryDate": "2020-03-17",
-        "invoicePDF": "GET http://development:8820/connect/rest/api/v1/documents?docType=Invoice&depot=a01&invoiceNumber=13141&deliveryDate=2020-03-17"
+        "invoicePDF": ""
         }
     ]
 }

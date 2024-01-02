@@ -12,6 +12,7 @@ const products = require('./data/products.json');
 const promotions = require('./data/promotions.json')
 const mixMatchSchemes = require('./data/mixandmatch.json')
 const customers = require('./data/customers.json');
+const invoices = require('./data/invoices.json')
 const deliverySchedules = require('./data/deliverySchedules.json')
 const claims = require('./data/claims.json')
 const claimLines = require('./data/claimLines.json')
@@ -91,6 +92,11 @@ app.get("/rest/api/v1/mixMatchSchemes", (req, res) => {
 // Route for customers endpoint
 app.get("/rest/api/v1/customers", (req, res) => {
     res.json(customers)
+});
+
+// Route for invoices
+app.get("/rest/api/v1/invoices", (req, res) => {
+    res.json(invoices)
 });
 
 // Route for order
