@@ -16,6 +16,7 @@ const deliverySchedules = require('./data/deliverySchedules.json')
 const claims = require('./data/claims.json')
 const claimLines = require('./data/claimLines.json')
 const orderLines = require('./data/orderLines.json')
+const attributes = require('./data/attributes.json')
 
 const { mockOrderResponse } = require('./responses/placeOrder');
 
@@ -54,6 +55,11 @@ app.get('/rest/api', (req, res) =>{
 // Route for web hierarchies endpoint
 app.get("/rest/api/v1/webHierarchies", (req, res) => {
     res.json(webHierarchies)
+});
+
+// Route for attributes
+app.get("/rest/api/v1/attributes", (req, res) => {
+    res.json(attributes)
 });
 
 // Route for depots endpoint

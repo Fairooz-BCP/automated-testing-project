@@ -1,0 +1,54 @@
+{
+    "attributes":[
+        {
+            "id": "colour",
+            "attributeName": "colour",
+            "description": "Colour of this item",
+            "attributeGroup": "prod",
+            "label": "Colour",
+            "dataType": "Choice",
+            "validChoices": [
+                "Red,r",
+                "Yellow,y",
+                "Blue,b",
+                "Green,g"
+            ]
+        },
+        {
+            "id": "price",
+            "attributeName": "price",
+            "description": "Price of this item",
+            "attributeGroup": "prod",
+            "label": "Price",
+            "dataType": "Decimal"
+        },
+        {
+            "id": "stockQuantity",
+            "attributeName": "stockQuantity",
+            "description": "Quantity of this item",
+            "attributeGroup": "prod",
+            "label": "Quantity",
+            "dataType": "Integer"
+        },
+        {
+            "id": "portionSize",
+            "attributeName": "portionSize",
+            "description": "Portion Size",
+            "attributeGroup": "prodIng",
+            "label": "[portion_size]",
+            "dataType": "Character"
+        },
+        {
+            "id": "packSize",
+            "attributeName": "packSize",
+            "description": "Pack Size",
+            "attributeGroup": "prodIng",
+            "label": "[pack_size]",
+            "dataType": "Choice",
+            "validChoices": [
+              "pack12",
+              "pack6"
+            ]
+        }
+    ]
+}
