@@ -1,0 +1,13 @@
+{
+    "statements": [
+      {
+        "companyCode": "cap",
+        "ledgerCode": "100",
+        "slCode": "web002",
+        "statementDate": "2023-02-11",
+        "statementNumber": 39,
+        "weekNumber": 5,
+        "customerCode": "web002"
+      }
+    ]
+}
