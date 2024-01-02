@@ -17,6 +17,7 @@ const claims = require('./data/claims.json')
 const claimLines = require('./data/claimLines.json')
 const orderLines = require('./data/orderLines.json')
 const attributes = require('./data/attributes.json')
+const attributeGroups = require('./data/attributeGroups.json')
 
 const { mockOrderResponse } = require('./responses/placeOrder');
 
@@ -60,6 +61,11 @@ app.get("/rest/api/v1/webHierarchies", (req, res) => {
 // Route for attributes
 app.get("/rest/api/v1/attributes", (req, res) => {
     res.json(attributes)
+});
+
+// Route for attribute groups
+app.get("/rest/api/v1/attributeGroups", (req, res) => {
+    res.json(attributeGroups)
 });
 
 // Route for depots endpoint

@@ -1,0 +1,14 @@
+{
+    "attributeGroups":[
+        {
+            "id": "prod",
+            "attributeGroup": "prod",
+            "description": "Product attributes"
+        },
+        {
+            "id": "prodIng",
+            "attributeGroup": "prodIng",
+            "description": "Product ingredient attributes"
+        }
+    ]
+}
