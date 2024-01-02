@@ -1,0 +1,24 @@
+{
+    "transactions": [
+        {
+
+            "id": "cap,100,INVOICING,web002,I,354",
+            "companyCode": "cap",
+            "ledgerCode": "100",
+            "batchRef": "INVOICING",
+            "slCode": "web002",
+            "documentType": "i:Invoice",
+            "documentRef": "354",
+            "transactionDate": "2023-06-09",
+            "customerCode": "web002",
+            "dueDate": "2023-07-09",
+            "invoiceNumber": 354,
+            "orderNumber": 3148,
+            "totalValue": 435.68,
+            "outstandingValue": 435.68,
+            "payType": "",
+            "canPayByCard": true
+
+        }
+    ]
+}
