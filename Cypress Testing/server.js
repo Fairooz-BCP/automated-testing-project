@@ -23,6 +23,7 @@ const attributes = require('./data/attributes.json')
 const attributeGroups = require('./data/attributeGroups.json')
 
 const { mockOrderResponse } = require('./responses/placeOrder');
+const {generateClaimResponse} = require('./responses/postClaim')
 
 const port = process.env.PORT || 3001;
 
@@ -143,6 +144,17 @@ app.get("/rest/api/v1/claims", (req, res) => {
 app.get("/rest/api/v1/claimLines", (req, res) => {
     res.json(claimLines)
 });
+
+// Route to accept claims
+app.post("/rest/api/v1/claims", (req, res) => {
+    try{
+        const claim = generateClaimResponse(req);
+        res.status(201).send(claim);
+    } catch(err){
+        console.log(err)
+        res.status(500).send(`Error occured while creating the claim: ${err}`);
+    }
+})
 
 
 app.get('/*', (req, res) =>{
