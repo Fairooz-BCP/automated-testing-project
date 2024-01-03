@@ -15,10 +15,13 @@
 function generateClaimResponse(req)
 {
     // validate claim fields
-    let result = validateClaimFields(req.body)
-    return result;    
+    let claimResult = validateClaimFields(req.body)
+   
+    
+    let claimLineResult = validateClaimLinesFields(req.body);
 
 
+    return true;
     // validate claim lines fields
 }
 
@@ -30,19 +33,19 @@ function validateClaimFields(fields)
 
     if(originalOrderID)
     {
-        return "yipee";
+        return true;
     }
     else if (depot && originalOrder && originalDeliveryDate)
     {
-        return "yipee1";
+        return true;
     }
     else if (depot && originalInvoice && originalDeliveryDate)
     {
-        return "yipee2";
+        return true;
     }
     else if (depot && customerCode)
     {
-        return "yipee3";
+        return true;
     }
 
     throw new Error('Invalid request. None of the required field combinations match.');
@@ -54,6 +57,18 @@ function validateClaimLinesFields(fields)
 
     // store claim lines fields
     const {originalLineNumber, sentQuantity, reasonCode, productCode} = fields;
+
+    if( originalLineNumber && sentQuantity && reasonCode)
+    {
+        return true;
+    }
+    else if (productCode && sentQuantity && reasonCode)
+    {
+        return true;
+    }
+
+    throw new Error('Invalid request. None of the required field combinations match.');
+
     // originalLineNumber, sentQuantity and reasonCode, or
     // productCode, sentQuantity and reasonCode
 }
