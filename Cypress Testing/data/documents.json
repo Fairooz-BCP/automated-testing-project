@@ -1,0 +1,16 @@
+{
+    "documents": [
+      {
+        "fileName": "Invoice-110724-2023-01-04.pdf",
+        "fileStream": "data:application/pdf..."
+      },
+      {
+        "fileName": "productInfo-TW10011-04.01.24.pdf",
+        "fileStream": "data:application/pdf..."
+      },
+      {
+        "fileName": "Statement-cap-200-10001,2023-01-04,12345",
+        "fileStream": "data:application/pdf..."
+      }
+    ]
+  }
