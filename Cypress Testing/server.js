@@ -15,6 +15,7 @@ const customers = require('./data/customers.json');
 const invoices = require('./data/invoices.json')
 const transactions = require ('./data/transactions.json')
 const statements = require('./data/statements.json')
+const reps = require('./data/reps.json')
 const deliverySchedules = require('./data/deliverySchedules.json')
 const claims = require('./data/claims.json')
 const claimLines = require('./data/claimLines.json')
@@ -110,6 +111,11 @@ app.get("/rest/api/v1/transactions", (req, res) => {
 // Route for statements
 app.get("/rest/api/v1/statements", (req, res) => {
     res.json(statements)
+});
+
+// Route for reps
+app.get("/rest/api/v1/reps", (req, res) => {
+    res.json(reps)
 });
 
 // Route for order
