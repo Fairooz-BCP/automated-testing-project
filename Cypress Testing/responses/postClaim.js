@@ -45,18 +45,22 @@ function generateClaimResponse(req)
      claimNumber = String(Math.floor(Math.random() * (claimMax - claimMin + 1) + claimMin));
 
     // generate claim response 
-    let claimResponse ={
-        id: `${depot},${idNumber}`,
-        created: true,
-        depot : depot,
-        claimNumber : claimNumber,
-        claimLines :[]
+    let claimResponse = {
+            "claims":[
+            {
+                id: `${depot},${idNumber}`,
+                created: true,
+                depot : depot,
+                claimNumber : claimNumber,
+                claimLines :[]
+            }
+        ]
     };
 
     // push claim lines into claim response
     for(let i=1; i<= claimLinesArray.length; i++)
     {
-        claimResponse.claimLines.push(
+        claimResponse.claims[0].claimLines.push(
             {
                 id : `${depot},${idNumber}.${i}`,
                 created : true,
@@ -72,6 +76,7 @@ function generateClaimResponse(req)
 
     // return response
     return claimResponse
+    
     
 }
 

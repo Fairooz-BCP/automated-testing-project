@@ -157,7 +157,7 @@ app.get("/rest/api/v1/claimLines", (req, res) => {
     res.json(claimLines)
 });
 
-// Route to accept claims. Generates one claim with one claim line
+// Route to accept claims. Generates one claim with with multiple claim lines
 app.post("/rest/api/v1/claims", (req, res) => {
     try{
         const claim = generateClaimResponse(req);
