@@ -19,7 +19,7 @@ let claimLineResult;
 function generateClaimResponse(req)
 {
     // store claim fields
-    claimRequest = req.body.claim[0];
+    claimRequest = req.body.claims[0];
     const {originalOrderID, depot, originalOrder, originalDeliveryDate,
         originalInvoice, customerCode}= claimRequest;
     
@@ -46,21 +46,20 @@ function generateClaimResponse(req)
 
     // generate claim response 
     let claimResponse = {
-            "claims":[
-            {
-                id: `${depot},${idNumber}`,
-                created: true,
-                depot : depot,
-                claimNumber : claimNumber,
-                claimLines :[]
-            }
-        ]
+
+        id: `${depot},${idNumber}`,
+        created: true,
+        depot : depot,
+        claimNumber : claimNumber,
+        claimLines :[]
+            
+        
     };
 
     // push claim lines into claim response
     for(let i=1; i<= claimLinesArray.length; i++)
     {
-        claimResponse.claims[0].claimLines.push(
+        claimResponse.claimLines.push(
             {
                 id : `${depot},${idNumber}.${i}`,
                 created : true,

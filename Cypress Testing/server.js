@@ -161,7 +161,7 @@ app.get("/rest/api/v1/claimLines", (req, res) => {
 app.post("/rest/api/v1/claims", (req, res) => {
     try{
         const claim = generateClaimResponse(req);
-        res.status(201).send(claim);
+        res.status(201).json( {claims : [claim]});
     } catch(err){
         console.log(err)
         res.status(500).send(`Error occured while creating the claim: ${err}`);
